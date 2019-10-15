@@ -44,6 +44,7 @@
 - [Mykola Balabash](https://github.com/twilderan)
 - [Naveenraj M](https://github.com/naveenrajm7)
 - [nilesh](https://github.com/nileshsahitya9)
+- [Nimesh Vaghasiya](https://github.com/nimeshvaghasiya)
 - [Nishant Tilve](https://github.com/Antimatter98)
 - [Pragadeeswaran Gnanasekaran](https://github.com/pragapraga)
 - [Ramy Fetteha](https://github.com/NoirFLamme)
@@ -66,5 +67,4 @@
 - [Victor Azevedo](https://github.com/victormazevedo)
 - [viewless](https://github.com/viewless)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
-
 <!-- Please follow ALPHABETICAL ORDER -->
